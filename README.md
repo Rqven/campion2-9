@@ -24,8 +24,8 @@ style="display:inline-block; margin-right:10px;" />
   - **Photography:**
 
 <p>
- <img src="https://i.pinimg.com/564x/b0/aa/0e/b0aa0efb3d3c229ef4adf21062795a21.jpg" width="200" />
- <img src="https://i.pinimg.com/736x/2c/aa/a2/2caaa22132b34abaed1a7c507dd65235.jpg" width="200" />
+ <img src="https://i.pinimg.com/564x/b0/aa/0e/b0aa0efb3d3c229ef4adf21062795a21.jpg" width="150" />
+ <img src="https://i.pinimg.com/736x/2c/aa/a2/2caaa22132b34abaed1a7c507dd65235.jpg" width="150" />
  <img src="https://i.pinimg.com/564x/87/e3/b0/87e3b05d69547318b300ff5811a714aa.jpg" width="250"
 style="display:inline-block; margin-right:10px;" />
  <img src="https://i.pinimg.com/564x/32/7c/6e/327c6e644181e28a0b1c1256a4504094.jpg" width="250"
