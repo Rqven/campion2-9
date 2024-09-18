@@ -41,13 +41,19 @@ style="display:inline-block; margin-right:10px;" />
   
 </p>
 
+
   ### **📚 𝕙𝕠𝕓𝕓𝕚𝕖𝕤**
 
-   - **Play Badminton**
-   - **Watch Movies/Series/Animes**
-   - **Biking**
-   - **Play Video Games:**
+  - **Play Badminton**
+  - **Watch Movies/Series/Animes**
+  - **Biking**
+  - **Play Video Games:**
 
 <p> 
   <img src="https://codm.garena.com/static/images/Main-page/P1/main-kv.jpg" width="350" style="display:inline-block; margin-right:10px;" />
   <img src="https://i.postimg.cc/9FMLz9YJ/1665994929135-1920x1080.png" width="350" style="display:inline-block; margin-right:10px;" />
+
+</p>
+
+
+
