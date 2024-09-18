@@ -15,7 +15,7 @@ style="display:inline-block; margin-right:10px;" />
 - **Motto:** *'In good hands, I trust!'*
 - **Studied in:** *Ateneo De Naga Junior High School.*
 
----
+
 
 ### **💡 𝕀𝕟𝕥𝕖𝕣𝕖𝕤𝕥𝕤**
     
