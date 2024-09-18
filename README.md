@@ -5,8 +5,7 @@
 <img src="https://i.postimg.cc/bYT3ggvz/387577051-897509398461105-7120969140956144349-n.jpg" width="250" />
 <img src="https://i.postimg.cc/j2XgJQDS/387549238-304442042545774-2651908029414917831-n.jpg" width="200"
 style="display:inline-block; margin-right:10px;" />
-<img src="https://i.pinimg.com/564x/32/7c/6e/327c6e644181e28a0b1c1256a4504094.jpg" width="250"
-style="display:inline-block; margin-right:10px;" />
+
   </p>
 
 - **Alias:** *Ace*
@@ -27,5 +26,7 @@ style="display:inline-block; margin-right:10px;" />
 <img src="https://i.pinimg.com/564x/b0/aa/0e/b0aa0efb3d3c229ef4adf21062795a21.jpg" width="200" />
 <img src="https://i.pinimg.com/736x/2c/aa/a2/2caaa22132b34abaed1a7c507dd65235.jpg" width="200" />
 <img src="https://i.pinimg.com/564x/87/e3/b0/87e3b05d69547318b300ff5811a714aa.jpg" width="200"
+style="display:inline-block; margin-right:10px;" />
+<img src="https://i.pinimg.com/564x/32/7c/6e/327c6e644181e28a0b1c1256a4504094.jpg" width="250"
 style="display:inline-block; margin-right:10px;" />
   </p>
