@@ -7,4 +7,9 @@
 style="display:inline-block; margin-right:10px;" />
   </p>
 
-- **Alias**
+- **Alias:** *Ace*
+- **Gender:** *Male*
+- **Born In:** *September 14, 2009*
+- **Location:** *Pacol, Naga City*
+- **Motto:** *'In good hands, I trust!'*
+- **Studied in:** *Ateneo De Naga Junior High School.*
