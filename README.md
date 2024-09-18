@@ -6,3 +6,5 @@
 <img src="https://i.postimg.cc/j2XgJQDS/387549238-304442042545774-2651908029414917831-n.jpg" width="200"
 style="display:inline-block; margin-right:10px;" />
   </p>
+
+- **Alias**
