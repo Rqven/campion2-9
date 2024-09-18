@@ -13,3 +13,7 @@ style="display:inline-block; margin-right:10px;" />
 - **Location:** *Pacol, Naga City*
 - **Motto:** *'In good hands, I trust!'*
 - **Studied in:** *Ateneo De Naga Junior High School.*
+
+
+
+  ### **💡 Interests**
