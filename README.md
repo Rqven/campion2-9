@@ -49,5 +49,5 @@ style="display:inline-block; margin-right:10px;" />
   - **Play Video Games:**
 
 <p> 
-  <img src="https://i.pinimg.com/564x/05/5f/ae/055fae9105a863cb2fb9d0cddcb7f8b6.jpg" width="250" style="display:inline-block; margin-right:10px;" />
-  <img src="https://i.pinimg.com/736x/c5/3f/8a/c53f8a83d49e0d3628105ee2b383b971.jpg" width="350" style="display:inline-block; margin-right:10px;" />
+  <img src="https://codm.garena.com/static/images/Main-page/P1/main-kv.jpg" width="250" style="display:inline-block; margin-right:10px;" />
+  <img src="https://i.postimg.cc/9FMLz9YJ/1665994929135-1920x1080.png" width="350" style="display:inline-block; margin-right:10px;" />
