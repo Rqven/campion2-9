@@ -17,7 +17,7 @@ style="display:inline-block; margin-right:10px;" />
 
 ---
 
-  ### **💡 𝕀𝕟𝕥𝕖𝕣𝕖𝕤𝕥𝕤**
+### **💡 𝕀𝕟𝕥𝕖𝕣𝕖𝕤𝕥𝕤**
     
   - **Tech Gadgets**
   - **Editing Videos**
@@ -42,7 +42,7 @@ style="display:inline-block; margin-right:10px;" />
   </p>
 
 
-  ### **📚 𝕙𝕠𝕓𝕓𝕚𝕖𝕤**
+### **📚 𝕙𝕠𝕓𝕓𝕚𝕖𝕤**
 
   - **Play Badminton**
   - **Watch Movies/Series/Animes**
@@ -57,16 +57,16 @@ style="display:inline-block; margin-right:10px;" />
 
   - **Listen to Musics:** 
 
-<p>
+
   <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3mtk5RuzfjZC4gyOGrvbtt?utm_source=generator" width="31%" height="300"frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/65YPiyiBBGQgqjiSG8jkvM?utm_source=generator" width="35%" height="300"frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1Ph96WpdjNlwD6iKRE2Xa3?utm_source=generator" width="31%" height="300"frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-</p>
 
-  ### **🦾 𝕆𝕡𝕖𝕟 𝕥𝕠**
+
+### **🦾 𝕆𝕡𝕖𝕟 𝕥𝕠**
 
   - **Friendship:**
 
@@ -79,7 +79,7 @@ style="display:inline-block; margin-right:10px;" />
 
   - **Learning & Sharing Knowledge**
 
-  ### **⚡ 𝕎𝕒𝕟𝕟𝕒 𝕜𝕟𝕠𝕨 𝕞𝕖 𝕞𝕠𝕣𝕖?**
+### **⚡ 𝕎𝕒𝕟𝕟𝕒 𝕜𝕟𝕠𝕨 𝕞𝕖 𝕞𝕠𝕣𝕖?**
 
    - **Email: arelayo@gbox.adnu.edu.ph**  
    - **Facebook: Ace Relayo**
