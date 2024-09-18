@@ -17,11 +17,12 @@ style="display:inline-block; margin-right:10px;" />
 
 
 
-  ### **💡 𝕀𝕟𝕥𝕖𝕣𝕖𝕤𝕥𝕤**
+ ### **💡 𝕀𝕟𝕥𝕖𝕣𝕖𝕤𝕥𝕤**
     
   - **Tech Gadgets**
   - **Editing Videos**
   - **Photography:**
+
 <p>
 <img src="https://i.pinimg.com/564x/b0/aa/0e/b0aa0efb3d3c229ef4adf21062795a21.jpg" width="200" />
 <img src="https://i.pinimg.com/736x/2c/aa/a2/2caaa22132b34abaed1a7c507dd65235.jpg" width="200" />
