@@ -66,6 +66,7 @@ style="display:inline-block; margin-right:10px;" />
 
 ### **🦾 𝕆𝕡𝕖𝕟 𝕥𝕠**
 
+  - **Learning & Sharing Knowledge**
   - **Friendship:**
 
 <p> 
@@ -75,7 +76,6 @@ style="display:inline-block; margin-right:10px;" />
 style="display:inline-block; margin-right:10px;" />
    </p>
 
-  - **Learning & Sharing Knowledge**
 
 ### **⚡ 𝕎𝕒𝕟𝕟𝕒 𝕜𝕟𝕠𝕨 𝕞𝕖 𝕞𝕠𝕣𝕖?**
 
