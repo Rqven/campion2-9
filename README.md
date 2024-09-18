@@ -66,5 +66,8 @@ style="display:inline-block; margin-right:10px;" />
 
 </p>
 
+  ### **🦾 𝕆𝕡𝕖𝕟 𝕥𝕠**
 
+  -**Friendship**
+  -**Learning & Sharing Knowledge**
 
