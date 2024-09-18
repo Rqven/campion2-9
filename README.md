@@ -58,11 +58,14 @@ style="display:inline-block; margin-right:10px;" />
   - **Listen to Musics:** 
 
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3mtk5RuzfjZC4gyOGrvbtt?utm_source=generator" width="31%" height="300"frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" 
+src="https://open.spotify.com/embed/track/3mtk5RuzfjZC4gyOGrvbtt?utm_source=generator" width="31%" height="300"frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/65YPiyiBBGQgqjiSG8jkvM?utm_source=generator" width="35%" height="300"frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" 
+src="https://open.spotify.com/embed/track/65YPiyiBBGQgqjiSG8jkvM?utm_source=generator" width="35%" height="300"frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1Ph96WpdjNlwD6iKRE2Xa3?utm_source=generator" width="31%" height="300"frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" 
+src="https://open.spotify.com/embed/track/1Ph96WpdjNlwD6iKRE2Xa3?utm_source=generator" width="31%" height="300"frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
 
