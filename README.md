@@ -68,6 +68,6 @@ style="display:inline-block; margin-right:10px;" />
 
   ### **🦾 𝕆𝕡𝕖𝕟 𝕥𝕠**
 
-  -**Friendship**
-  -**Learning & Sharing Knowledge**
+  - **Friendship**
+  - **Learning & Sharing Knowledge**
 
