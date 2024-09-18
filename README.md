@@ -68,6 +68,14 @@ style="display:inline-block; margin-right:10px;" />
 
   ### **🦾 𝕆𝕡𝕖𝕟 𝕥𝕠**
 
-  - **Friendship**
+  - **Friendship:**
+
+<p> 
+  <img src="https://i.postimg.cc/Kvs290FN/458982219-1203780114284299-1325013125643799051-n.jpg" width="200" />
+  <img src="https://i.postimg.cc/6Qcz0mx6/436419495-1127814085203681-5807427288508894657-n.jpg" width="200" />
+  <img src="https://i.postimg.cc/G3xYsyrr/IMG-8764.jpg" width="200"
+style="display:inline-block; margin-right:10px;" />
+   </p>
+
   - **Learning & Sharing Knowledge**
 
