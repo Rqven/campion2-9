@@ -15,7 +15,7 @@ style="display:inline-block; margin-right:10px;" />
 - **Motto:** *'In good hands, I trust!'*
 - **Studied in:** *Ateneo De Naga Junior High School.*
 
-
+---
 
   ### **💡 𝕀𝕟𝕥𝕖𝕣𝕖𝕤𝕥𝕤**
     
@@ -79,3 +79,17 @@ style="display:inline-block; margin-right:10px;" />
 
   - **Learning & Sharing Knowledge**
 
+  ### **⚡ 𝕎𝕒𝕟𝕟𝕒 𝕜𝕟𝕠𝕨 𝕞𝕖 𝕞𝕠𝕣𝕖?**
+
+   - **Email: arelayo@gbox.adnu.edu.ph**  
+   - **Facebook: Ace Relayo**
+
+---
+
+<p> 
+  <img src="https://i.postimg.cc/Dwb0vCJF/582812-341657929252668-2035778373-n.jpg" width="200" />
+  <img src="https://i.postimg.cc/NMQjxBNf/535585-417448065006987-891465005-n.jpg" width="200" />
+  <img src="https://i.postimg.cc/RFGVsy81/455314798-7989513724467012-773084095909212110-n.jpg" width="250" style="display:inline-block; margin-right:10px;" />
+
+  
+</p>
